@@ -1,0 +1,22 @@
+{
+  "title": "My Digital Garden",
+  "showSidebar": true,
+  "favicon": "🌱",
+  "nav": {
+    "logo": "/logo.jpg",
+    "title": "My Digital Garden",
+    "links": [
+      {
+        "href": "/About",
+        "name": "About"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/flowershow/example-digital-garden"
+      }
+    ]
+  }
+}
