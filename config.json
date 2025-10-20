@@ -1,21 +1,15 @@
 {
-  "title": "My Digital Garden",
+  "title": "EA Ecosystem Mapping",
   "showSidebar": true,
-  "favicon": "🌱",
+  "favicon": "/assets/ea-ecosystem-logo.png",
   "nav": {
-    "logo": "/logo.jpg",
-    "title": "My Digital Garden",
-    "links": [
-      {
-        "href": "/About",
-        "name": "About"
-      }
-    ],
+    "logo": "/assets/ea-ecosystem-logo.png",
+    "title": "EA Ecosystem Mapping",
     "social": [
       {
         "label": "github",
         "name": "GitHub Profile",
-        "href": "https://github.com/flowershow/example-digital-garden"
+        "href": "https://github.com/rufuspollock/ea-ecosystem"
       }
     ]
   }
