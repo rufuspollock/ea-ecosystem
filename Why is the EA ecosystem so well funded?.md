@@ -1,0 +1,9 @@
+EA’s intellectual and cultural alignment with the technocapitalist and rationalist worldview makes it especially appealing to tech and finance elites. Its emphasis on measurable impact, cost-effectiveness, and long-term risk reduction resonates with the engineering mindset and the utilitarian ethos prevalent in those domains. The movement’s increasing focus on AI and existential risk has amplified this alignment, channeling vast resources from donors already invested in technology’s transformative potential. In short, EA thrives financially because it reflects and reinforces the dominant rationalist-technical ideologies of late modernity.
+
+## Longer
+
+The "why" is very interesting from a sociological viewpoint. EA has focused on topics of high interest to the engineering and technology circles, which are also highly resourced—particularly around AI and existential risk. If EA had focused only on malaria or mosquito nets for development in Africa, it would have been significant but not nearly as impactful.
+
+It’s particularly the intersection with technology and AI, especially in the last decade, that has brought significant resources. It’s noticeable that much of the funding from Open Philanthropy in recent years has gone toward AI and AI-risk.
+
+And then there’s the point to reiterate from before: in a literal sense, the essence of Effective Altruism—with its rationalist, engineering mindset of effectiveness—is deeply aligned with finance and technology, which are two of the dominant industries and ideologies of late modernity. That’s, I think, an answer more to the second question—at least as a first pass.
