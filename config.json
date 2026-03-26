@@ -1,6 +1,7 @@
 {
   "title": "EA Ecosystem Mapping",
   "showSidebar": true,
+  "showEditLink": true,
   "favicon": "/assets/ea-ecosystem-logo.png",
   "nav": {
     "logo": "/assets/ea-ecosystem-logo.png",
