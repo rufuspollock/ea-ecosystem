@@ -19,9 +19,9 @@ It has also had a model that encourages “earning to give,” and quite a bit o
 That’s one partial answer to the “how.”
 ## Data
 
-[[Jaan Tallinn]] all grants: https://datahub.io/@rufuspollock/jaan-tallinn-donations - https://github.com/rufuspollock/jaan-tallinn-donations
+[[Jaan Tallinn]] all grants: https://datahub.io/rufuspollock/jaan-tallinn-donations - https://github.com/rufuspollock/jaan-tallinn-donations
 
 [[Open Philanthropy]] all grants:
-https://datahub.io/@rufuspollock/open-philanthropy-grants - https://github.com/rufuspollock/open-philanthropy-grants
+https://datahub.io/rufuspollock/open-philanthropy-grants - https://github.com/rufuspollock/open-philanthropy-grants
 
-https://datahub.io/@rufuspollock/good-ventures-grants -  https://github.com/rufuspollock/good-ventures-grants (this is the foundation behind Open Philanthropy)
+https://datahub.io/rufuspollock/good-ventures-grants -  https://github.com/rufuspollock/good-ventures-grants (this is the foundation behind Open Philanthropy)
